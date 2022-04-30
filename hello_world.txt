@@ -1,1 +1,2 @@
 Learning some Git stuff and beating the fear to the terminal!
+test making a change and push it to github
